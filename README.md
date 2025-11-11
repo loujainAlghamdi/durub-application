@@ -1,4 +1,4 @@
-# Durub Application  
+# DURUB Application  
 *A shipment tracking and delivery communication concept app – Engineering Innovation Club @ KAU*
 
 Durub is a prototype mobile application designed as an innovation project under the **Engineering Innovation Club at King Abdulaziz University**.  
