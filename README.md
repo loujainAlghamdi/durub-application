@@ -60,6 +60,18 @@ Clean interface designed to ensure smooth experience for all users.
 
 Below are the main screens of the **Durub Mobile Application** concept, designed using Figma.  
 The UI focuses on clarity, simplicity, and fast shipment tracking for end users.
+<p align="center">
+  <img src="ui/shipment-tracking.png" width="80%" />
+</p>
+<p align="center">
+  <img src="ui/shipment-tracking2.png" width="80%" />
+</p>
+<p align="center">
+  <img src="ui/shipment-tracking3.png" width="80%" />
+</p>
+<p align="center">
+  <img src="ui/shipment-tracking4.png" width="80%" />
+</p>
 
 
 
