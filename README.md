@@ -56,11 +56,10 @@ Clean interface designed to ensure smooth experience for all users.
 ---
 
 
-## ✅ Screens & UI Mockups
+## 📱 User Interface (UI Screens)
 
-All UI screens were designed in Figma.  
-For convenience, the full interface set is included in the project files.
+Below are the main screens of the **Durub Mobile Application** concept, designed using Figma.  
+The UI focuses on clarity, simplicity, and fast shipment tracking for end users.
 
-📄 **View All Interfaces (PDF)**  
-[Durub Interfaces](docs/Durub_interfaces.pdf)
+
 
